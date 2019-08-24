@@ -5,7 +5,7 @@ class MySQLHelper:
 
     host="localhost"
     user="root"
-    password="tostent@123456"
+    password="123456"
     db="cnblogdb"
     port=3306
     charset="utf8"
